@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl # For reading/writing Excel files
+numpy
+plotly # For interactive plotting
+kaleido # For exporting Plotly graphs to static images (needed for PDF reports)
+reportlab # For PDF generation
+fpdf # For PDF generation (used in initial setup, ReportLab is primary for structured PDF)
+Pillow # Image processing for reports
+prophet

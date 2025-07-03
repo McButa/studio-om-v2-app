@@ -1,0 +1,30 @@
+{
+  "--- Select Project Location in Thailand ---": {
+    "avg_annual_ghi": null,
+    "avg_specific_yield": null
+  },
+  "Thailand - Northern Region (e.g., Chiang Mai, Chiang Rai)": {
+    "avg_annual_ghi": 1820.0,
+    "avg_specific_yield": 1456.0
+  },
+  "Thailand - Northeastern Region (e.g., Khon Kaen, Ubon)": {
+    "avg_annual_ghi": 1885.3,
+    "avg_specific_yield": 1508.2
+  },
+  "Thailand - Central Region (e.g., Bangkok, Ayutthaya)": {
+    "avg_annual_ghi": 1850.5,
+    "avg_specific_yield": 1480.4
+  },
+  "Thailand - Eastern Region (e.g., Chonburi, Rayong)": {
+    "avg_annual_ghi": 1830.0,
+    "avg_specific_yield": 1464.0
+  },
+  "Thailand - Western Region (e.g., Kanchanaburi, Ratchaburi)": {
+    "avg_annual_ghi": 1865.0,
+    "avg_specific_yield": 1492.0
+  },
+  "Thailand - Southern Region (e.g., Phuket, Songkhla)": {
+    "avg_annual_ghi": 1795.8,
+    "avg_specific_yield": 1436.6
+  }
+}
